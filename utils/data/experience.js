@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Operation Specialist',
+    company: "Citi Corp Services India Pvt Ltd, PUNE",
+    duration: "(Sept 2022 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Technical Support Analyst",
+    company: "Teleperformance",
+    duration: "(March 2020 - Jan 2022)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Technical Intern-Azure Cloud ",
+    company: "Microsoft , Seattle USA",
+    duration: "(Feb 2018- Dec 2019)"
   }
 ]
