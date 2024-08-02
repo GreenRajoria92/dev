@@ -21,7 +21,8 @@ async function getData() {
 
   return filtered;
 };
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8730577181602859"
+     crossorigin="anonymous"></script>
 export default async function Home() {
   const blogs = await getData();
 
